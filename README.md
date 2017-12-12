@@ -23,3 +23,5 @@ Click [here](https://alexan0218.github.io/projects/cv/proj5/) for the project re
 ## Deep Learning with Convolutional Neural Networks:
 Click [here](https://www.cc.gatech.edu/~hays/compvision/proj6/) for instruction.<br/>
 Click [here](https://alexan0218.github.io/projects/cv/proj6/) for the project report.<br/>
+
+@Fall 2017
